@@ -1,28 +1,30 @@
 #KaranKumbhar Street Racing AR/VR
 
-KaranKumbhar Street Racing AR/VR is a Unity-based AR/VR project focused on building an interactive street racing environment. The main purpose of this project is to explore immersive technologies and understand how extended reality can be used to create engaging 3D experiences.
+🏎️ KaranKumbhar Street Racing AR/VR
 
-This project was developed as a portfolio project to gain practical experience in AR/VR development, Unity workflows, and XR technologies.
+KaranKumbhar Street Racing AR/VR is a Unity-based AR/VR project that focuses on building an interactive street-racing environment. The goal of this project is to explore how immersive technologies can be used to create engaging 3D racing experiences.
 
-About the Project
+This project was created as a portfolio project to gain practical experience in AR/VR development, Unity workflows, and XR technologies.
 
-In this project, I worked on designing a virtual street racing setup where users can explore a racing scene and interact with objects inside the environment. The application is built using Unity and XR tools to handle user interaction, rendering, and scene management.
+📌 About the Project
 
-Through this project, I learned how to structure an AR/VR application, work with 3D assets, and develop interactive environments suitable for extended reality platforms.
+In this project, I worked on designing a virtual street-racing setup where users can explore a racing scene and interact with objects inside the environment. The project uses Unity’s XR tools to handle interactions and rendering.
 
-Key Features
+Through this project, I learned how to structure an AR/VR application, manage 3D assets, and build interactive scenes suitable for extended reality platforms.
 
-Interactive street racing environment
+🚀 Key Features
+
+Interactive street-racing environment
 
 XR-based interaction and scene navigation
 
 Real-time 3D rendering
 
-AR/VR project setup using Unity
+AR/VR project configuration in Unity
 
-Version control using Git and GitHub
+Complete version control using Git and GitHub
 
-Technologies Used
+🛠️ Technologies Used
 
 Unity Engine
 
@@ -32,42 +34,40 @@ AR Foundation
 
 C#
 
-Git and GitHub
+Git & GitHub
 
-Project Structure
-Assets/           - Scenes, scripts, and 3D assets  
-Packages/         - Unity dependencies  
-ProjectSettings/  - Unity configuration files  
+📂 Project Structure
+Assets/           → Scenes, scripts, and 3D assets  
+Packages/         → Unity dependencies  
+ProjectSettings/  → Unity configuration files  
 
-How to Run the Project
+▶️ How to Run
 
 Install Unity Hub
 
-Open Unity Hub and select Open
+Open Unity Hub → Click Open → Select this project folder
 
-Choose this project folder
-
-Install required XR packages if prompted
+Install required XR packages (if prompted)
 
 Connect a supported AR/VR device or use a simulator
 
 Press Play to run the project
 
-Screenshots or Demo
+📸 Screenshots / Demo
 
-Screenshots and demo videos can be added here.
+(You can add screenshots or a short demo video link here)
 
-What I Learned
+🎯 What I Learned
 
-Fundamentals of AR/VR application development
+Basics of AR/VR application development
 
 Working with XR Interaction Toolkit
 
-Creating interactive 3D environments
+Creating and managing interactive 3D environments
 
-Using GitHub for real-world version control
+Using GitHub for real project version control
 
-Developer
+👤 Developer
 
 Karan Kumbhar
 GitHub: https://github.com/karankumbhar90291571
